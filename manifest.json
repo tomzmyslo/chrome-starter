@@ -15,6 +15,7 @@
     "128": "dev_icon_128.png"
   },
   "permissions": [
+    "webview",
     "system.cpu",
     "system.memory",
     "system.network"
